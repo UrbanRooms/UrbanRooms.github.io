@@ -1,0 +1,40 @@
+.img-shadow {
+  float:left;
+  background: url(images/shadowAlpha.png) no-repeat bottom right !important;
+  background: url(images/shadow.gif) no-repeat bottom right;
+  margin: 10px 0 0 10px !important;
+  margin: 10px 0 0 5px;
+  }
+
+.img-shadow img {
+  display: block;
+  position: relative;
+  background-color: #fff;
+  border: 1px solid #a9a9a9;
+  margin: -6px 6px 6px -6px;
+  padding: 4px;
+  }
+.urban {  font-family: Tahoma,Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-weight: normal; color: #FFFFFF}
+.urbantitle {  font-family: Tahoma, Geneva, Arial, Helvetica, san-serif; font-size: 15px; font-weight: bolder; color: #FFFFFF}
+.urbanbolder {  font-family: Tahoma, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: 900; color: #CCCCCC}
+.urbanstar {  font-family: Tahoma, Arial, Helvetica, sans-serif; font-size: 30px; font-weight: 900; color: #FF0000; font-style: normal}
+
+body {
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	background-color: #7bb1d8;
+	color: #000000;
+	margin-bottom: 40px;
+	margin-top: 0px;
+}
+
+ul.TickList {
+  list-style-image: url('images/tick.gif')
+}
+.ordinary {text-decoration:none}
+
+a:link    {color:black}
+a:visited {color:purple}
+a:active  {color:mediumblue}
+a:hover   {color:mediumblue}
+
